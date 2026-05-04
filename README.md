@@ -1,4 +1,3 @@
-# PCB_CROPPER
 # 🟢 PCB Cropper — Automated Board Segmentation Tool
 
 > Automatically detects and crops individual PCB boards from a single grid image. Built with Python, Flask, and OpenCV.
